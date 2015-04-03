@@ -43,5 +43,5 @@ Temporary Items
 .apdisk
 
 # misc
-.gcode
-.stl
+*.gcode
+*.stl
