@@ -3,4 +3,3 @@ X axis tensioner and idler pulley mount
 Extruder
 Electronics  mounts
 LCD panel mount
-Z axis motor mounts
