@@ -5,5 +5,6 @@ block_bolt_head = 9;
 z_nut = 13;
 z_rod = 8;
 z_motor_bolt = 5.5;
-
+d_spacer=12;
+d_bolt=5;
 clearance = 0.25;

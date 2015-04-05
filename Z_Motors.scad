@@ -21,5 +21,5 @@ module z_motor_mount(){
     }
 }
 
-translate([15,20,0])rotate([0,0,180])z_motor_mount();
-z_motor_mount();
+//translate([15,20,0])rotate([0,0,180])z_motor_mount();
+//z_motor_mount();
