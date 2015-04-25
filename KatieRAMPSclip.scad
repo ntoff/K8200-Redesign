@@ -1,13 +1,8 @@
 X=40;
-Y=56.8;
+Y=57;
 Z=10;
-thick=3;
-$fn=18;
-rotate([0,0,90])
-union(){
 difference(){
-    cube([X,Y+(thick*2),Z],center=true);
-    translate([thick,0,0])cube([X,Y,Z+1],center=true);
-}
- translate([-X/2+thick+8,Y/2,0])sphere(d=5,center=true);
+    cube([X,Y+6,Z],center=true);
+    
+    translate([3,0,0])cube([X,Y,Z+1],center=true);
 }
